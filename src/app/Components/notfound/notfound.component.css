@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300");
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 30vh;
+}
+h2 span {
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.not-found-color {
+  color: #0aad0a;
+}

@@ -1,0 +1,9 @@
+.button-order {
+  background-color: #0aad0a; 
+  color: white;
+  padding: 5px 5px 5px 5px !important;
+  border-radius: 12px;
+  width: 100px;
+  height: 50px;
+  min-width: 0px !important;  
+}
